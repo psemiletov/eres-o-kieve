@@ -9,7 +9,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: erer-o-kieve.tex
+          root_file: eres-o-kieve.tex
           latexmk_use_lualatex: true
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
