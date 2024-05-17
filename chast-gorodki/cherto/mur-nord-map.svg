@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mur-nord-map.svg"
+   inkscape:export-filename="/home/rox/wrk/kiev/gorodki/mur-nord-map.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.81"
+     inkscape:cx="247.97166"
+     inkscape:cy="701.09218"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1133"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="721.78218,85.148515"
+       id="guide3808" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="sat"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/rox/wrk/kiev/gorodki/muromec-nord.png"
+       xlink:href="muromec-nord.png"
+       width="1023"
+       height="824"
+       id="image2993"
+       x="-140.07143"
+       y="80.36219" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="blue"
+     style="opacity:1">
+    <rect
+       style="fill:#330099;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3819"
+       width="1022.7723"
+       height="822.10608"
+       x="-138.61386"
+       y="82.065155"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="vec"
+     style="opacity:1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 279.20792,904.83743 279.20792,-1.9802"
+       id="path3016"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 502.9703,849.39189 c 0,-1.65017 0,-3.30033 0,-4.9505"
+       id="path3018"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#666633;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 159.40594,606.81763 c 11.55116,19.47195 23.10231,38.94389 34.65347,58.41584 11.88119,20.79208 23.76237,41.58416 35.64356,62.37624 8.58086,26.07261 17.16171,52.14521 25.74257,78.21782 8.91089,33.0033 17.82179,66.0066 26.73268,99.0099 93.06931,-0.66007 186.13861,-1.32013 279.20792,-1.9802 -15.51155,-9.57096 -31.0231,-19.14191 -46.53465,-28.71287 -12.21122,-26.73267 -24.42245,-53.46535 -36.63367,-80.19802 -8.25082,-37.29373 -16.50165,-74.58746 -24.75247,-111.88119 2.31023,-24.09241 4.62046,-48.18481 6.93069,-72.27722 7.92079,-25.41254 15.84159,-50.82509 23.76238,-76.23763 14.52145,-26.07261 29.0429,-52.14521 43.56435,-78.21782 17.49175,-20.46205 34.9835,-40.92409 52.47525,-61.38614 8.25083,-14.85148 16.50165,-29.70297 24.75248,-44.55445 -7.92079,-9.57096 -15.84159,-19.14192 -23.76238,-28.71288 -1.65017,-15.18152 -3.30033,-30.36303 -4.9505,-45.54455 7.26073,-11.22112 14.52145,-22.44225 21.78218,-33.66337 -23.76238,-11.55115 -47.52475,-23.10231 -71.28713,-34.65346 -25.74257,-13.86139 -51.48515,-27.72277 -77.22772,-41.58416 -23.76238,-15.18152 -47.52475,-30.36303 -71.28713,-45.54455 -23.10231,-4.9505 -46.20462,-9.90099 -69.30693,-14.85149 -30.69307,0.66007 -61.38614,1.32013 -92.07921,1.9802 -19.80198,6.60066 -39.60396,13.20132 -59.40594,19.80198 9.24092,5.28053 18.48185,10.56105 27.72277,15.84158 14.52145,3.30033 29.04291,6.60066 43.56436,9.90099 23.10231,-1.65016 46.20462,-3.30033 69.30693,-4.95049 21.78218,2.9703 43.56436,5.94059 65.34654,8.91089 13.20132,8.58086 26.40264,17.16171 39.60396,25.74257 -13.53135,3.30033 -27.06271,6.60066 -40.59406,9.90099 -23.76238,-4.29043 -47.52475,-8.58085 -71.28713,-12.87128 -36.63366,-7.26073 -73.26733,-14.52145 -109.90099,-21.78218 -27.39274,-9.57096 -54.78548,-19.14191 -82.178219,-28.71287 -4.950495,0.33003 -9.90099,0.66007 -14.851485,0.9901 -13.20132,13.20132 -26.402641,26.40264 -39.603961,39.60396 -13.861386,15.84158 -27.722772,31.68317 -41.584158,47.52475 -9.90099,16.17162 -19.80198,32.34323 -29.70297,48.51485 -0.990099,19.47195 -1.980198,38.94389 -2.970297,58.41584 9.240924,26.07261 18.481848,52.14521 27.722772,78.21782 11.881188,19.80198 23.762376,39.60396 35.643564,59.40594 17.821782,19.14192 35.643565,38.28383 53.465347,57.42575 15.181517,15.18152 30.363037,30.36303 45.544557,45.54455 9.90099,1.9802 19.80198,3.96039 29.70297,5.94059 11.55115,-16.17162 23.10231,-32.34323 34.65346,-48.51485 -12.21122,-23.43234 -24.42244,-46.86469 -36.63366,-70.29703 -19.47195,-17.82178 -38.94389,-35.64356 -58.41584,-53.46534 -4.620463,-18.48185 -9.240925,-36.9637 -13.861388,-55.44555 3.30033,-25.08251 6.60066,-50.16501 9.90099,-75.24752 6.600658,9.57096 13.201318,19.14191 19.801978,28.71287 6.60066,23.76238 13.20132,47.52475 19.80198,71.28713 10.56106,24.75247 21.12211,49.50495 31.68317,74.25742 7.92079,14.52145 15.84159,29.04291 23.76238,43.56436 6.27063,13.20132 12.54125,26.40264 18.81188,39.60396 -17.16172,22.44224 -34.32343,44.88449 -51.48515,67.32673 -0.33003,4.9505 -0.66007,9.90099 -0.9901,14.85149 z"
+       id="path3022"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="fill:#666633;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -138.61386,100.93943 59.693387,39.54156 38.848079,-11.03485 25.582881,-17.47185 52.113275,-30.345864 -175.947992,0.523354 z"
+       id="path3810"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#666633;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 487.12871,82.065153 57.42575,37.623767 52.47524,41.58415 58.41584,31.68317 64.35644,27.72277 51.48515,15.84159 63.36634,-2.9703 26.73267,-18.81188 15.84158,-40.59406 -15.84158,-39.60396 -28.71287,-32.67327 -24.59244,-20.24522 z"
+       id="path3812"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#666600;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 885.14851,288.00575 -151.48514,-7.9208 -51.48515,32.67327 -44.55446,49.50495 L 600,430.58 l -40.59406,104.9505 -13.86139,68.31683 -41.58415,45.54456 -18.81189,3.96039 10.89109,25.74258 22.77228,3.96039 -1.9802,24.75248 10.89109,66.33663 28.71287,49.50495 39.60396,20.79208 31.68317,10.89109 38.61386,17.82178 -48.51485,-55.44554 -29.70297,-33.66337 -16.83168,-40.59406 -9.90099,-36.63366 -15.84159,-42.57426 10.89109,-30.69307 34.65347,-20.79208 30.69307,-3.96039 240.59406,40.59406 2.97029,37.62376 19.47629,45.5185 z"
+       id="path3814"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       style="fill:#666633;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -140.64958,520.6235 39.65948,20.84759 -12.87129,23.76238 -27.72277,15.84158 0.0555,34.20932 30.63755,-25.29843 34.653466,-28.71287 31.683169,25.74258 L 0,621.66911 l 37.623762,54.45545 14.851486,50.49505 5.940594,54.45544 15.841584,58.41585 7.920792,63.36633 -122.772277,0 4.950495,-20.79208 0.990099,-35.64356 13.861386,-16.83168 -12.871287,-37.62377 -33.663367,0 -39.603957,15.84159 -14.85149,22.77227 -16.99824,29.64746 z"
+       id="path3816"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <rect
+       style="fill:#ff99ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3821"
+       width="125.74258"
+       height="15.841584"
+       x="644.64703"
+       y="52.747566"
+       ry="4.2770715"
+       transform="matrix(0.95526055,0.29576558,-0.29576558,0.95526055,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="625.74255"
+       y="245.43149"
+       id="text3861"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3863"
+         x="625.74255"
+         y="245.43149" /></text>
+    <path
+       style="fill:#0099ff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 478.16901,429.12275 11.97184,-1.40845 7.04225,21.12676 -9.85916,23.23943 -11.97183,-16.90141 -4.22535,-18.30986 z"
+       id="path3877"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00b5ff;stroke-width:8.59999999999999787;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 461.97183,434.05232 -21.83098,0 -36.61972,0 -38.7324,-16.19718 -28.16901,-23.23944 -21.12676,-33.80281 -8.45071,-33.09859 6.33803,-38.7324 14.78873,-20.42253 0,0"
+       id="path3879"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0099ff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 316.19718,422.78472 -52.11267,-9.15493 -26.05634,-4.92958 -5.6338,11.26761 4.92957,24.64788 10.56338,12.67606 11.26761,15.49296 9.85915,20.42253 1.40846,45.07043 7.74647,-4.92958 4.22536,-17.60564 -2.11268,-30.98591 -7.74648,-23.23944 -16.19718,-19.01408 -4.22535,-15.49296 7.74647,-4.92958 26.76057,4.22535 28.87324,2.81691 z"
+       id="path3881"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#00ccff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 344.68085,570.9792 3.19149,-9.04255 -4.78723,-14.89362 -3.19149,-5.31915 -15.42553,0.53192 -13.82979,5.31915 -5.85107,13.29787 3.72341,15.95745 2.12766,21.27659 5.85106,3.19149 2.65958,-10.6383 0,-18.61702 1.06383,-14.89361 11.70212,-2.65958 7.44681,9.04256 -1.06383,10.63829 5.85107,1.59575 z"
+       id="path3883"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="nadpisi">
+    <text
+       xml:space="preserve"
+       style="font-size:45.04227459px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9933;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="504.1246"
+       y="-102.03999"
+       id="text3824"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.74387143,0.45125319,-0.5961276,0.98269067,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3826"
+         x="504.1246"
+         y="-102.03999">Десна</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:45.04227435px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9933;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="768.52551"
+       y="386.33124"
+       id="text3824-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.84680818,-0.1997249,0.2638464,1.1186752,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3826-2"
+         x="768.52551"
+         y="386.33124">Десна</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9900;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="411.8812"
+       y="262.26318"
+       id="text3849"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3851"
+         x="411.8812"
+         y="262.26318">ур. Калиновка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.37242889px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9900;fill-opacity:1;stroke:none"
+       x="-479.16956"
+       y="667.61475"
+       id="text3857"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.45070681,-0.7911847,1.0749552,0.33172762,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3859"
+         x="-479.16956"
+         y="667.61475">Десёнка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9900;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="614.8515"
+       y="293.94632"
+       id="text3865"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3867"
+         x="614.8515"
+         y="293.94632">Дамба</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.64720157px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9900;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="688.42554"
+       y="201.38898"
+       id="text3869"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.38621022,0.75684171,-1.0483041,0.53494113,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3871"
+         x="688.42554"
+         y="201.38898">Днепр</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="39.148514"
+       y="111.97604"
+       id="text3873"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3875"
+         x="39.148514"
+         y="111.97604"
+         style="fill:#ff9900;-inkscape-font-specification:DejaVu Sans;font-family:DejaVu Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Устье Десны</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.00000003px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9933;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="102.16661"
+       y="523.83319"
+       id="text3885"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95830609,-0.28574365,0.28574365,0.95830609,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3887"
+         x="102.16661"
+         y="523.83319">оз. Кинище</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9900;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="346.61151"
+       y="545.31598"
+       id="text3889"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3891"
+         x="346.61151"
+         y="545.31598">оз. Малое</tspan><tspan
+         sodipodi:role="line"
+         x="346.61151"
+         y="565.31598"
+         id="tspan3895">Кинище</tspan><tspan
+         sodipodi:role="line"
+         x="346.61151"
+         y="585.31598"
+         id="tspan3893" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.99999999px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff9933;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="469.23547"
+       y="37.322735"
+       id="text3897"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.72633233,0.68734369,-0.68734369,0.72633233,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3899"
+         x="469.23547"
+         y="37.322735">Старая Речка</tspan></text>
+    <rect
+       style="fill:#9966ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3901"
+       width="25.531916"
+       height="40.425533"
+       x="62.669041"
+       y="475.50485"
+       ry="0"
+       transform="matrix(0.95246245,-0.30465599,0.30465599,0.95246245,0,0)" />
+  </g>
+</svg>
