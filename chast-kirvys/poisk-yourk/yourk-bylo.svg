@@ -6,7 +6,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="yourk-bylo.svg"
    inkscape:export-filename="/home/rox/wrk/kiev-work/yourk.png"
    inkscape:export-xdpi="90"
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.69296465"
-     inkscape:cx="112.55985"
-     inkscape:cy="521.67163"
+     inkscape:cx="1129.9278"
+     inkscape:cy="522.39317"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1113"
@@ -82,7 +82,10 @@
        height="781.06683"
        x="-126.81084"
        y="137.14522"
-       ry="3.8071952" />
+       ry="3.8071952"
+       inkscape:export-filename="yourk-bylo.pdf"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -291,7 +294,7 @@
          id="tspan3927-9"
          x="374.95554"
          y="575.08118"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.2339px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Юрковица</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.2339px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Хоривица</tspan></text>
     <g
        id="g3043"
        transform="translate(14.43075,14.43075)">
