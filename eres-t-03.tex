@@ -4,15 +4,6 @@
 
 \usepackage[svgnames]{xcolor} % Required to specify font color
 
-%\documentclass[a4paper,12pt,openany]{scrbook}
-
-%\usepackage{glossaries}
-%\usepackage[xindy]{glossaries}
-%\makeglossaries
-
-%\usepackage{odsfile,lmodern}
-
-%\usepackage{luacode}
 
 \usepackage{multicol}
 
@@ -27,18 +18,11 @@
 \usepackage[protrusion=true,expansion,
 tracking=true,letterspace=50]{microtype}
 
-%\SetTracking[ spacing = {25*,166, } ]{ encoding = *, shape = sc }{ 25 }
 
-
-%\usepackage{soulutf8}
-%\usepackage{letterspace}
-
-%\usepackage[toc]{appendix}
 \usepackage[toc,titletoc]{appendix}
 \renewcommand\appendixtocname{Приложения}
 \renewcommand\appendixpagename{Приложения}
 
-%\usepackage{xunicode}
 \usepackage{xltxtra}
 
 \usepackage[normalem]{ulem}
@@ -84,108 +68,32 @@ ItalicFont={DejaVuSansMono-Oblique.ttf},
 {DejaVuSansMono.ttf}
 
 
-%\addfontfeature{LetterSpace=15,WordSpace=10}
-%\setromanfont{Linux Libertine}
-
-
-%\setromanfont{Liberation Serif}
-%\setsansfont{Liberation Sans}
-%\setmonofont{Liberation Mono}
-
-%\newfontfamily{\cyrillicfonttt}{Liberation Serif}
-%\newfontfamily{\cyrillicfonttt}{Liberation Sans}
-%\newfontfamily{\cyrillicfonttt}{Liberation Mono}
-
-%\setromanfont{Linux Libertine}
-
-
-%\usepackage{showframe}
-
 \usepackage{enumitem}
 \usepackage{indentfirst} 
 
 \usepackage{verse}
 
 \usepackage{graphicx}
-%\usepackage{listings}
-%\usepackage[unicode,pdfpagelabels,plainpages=false]{hyperref}
-%\usepackage[pdfpagelabels,pdfusetitle,unicode,plainpages=false]{hyperref}
+
 
 \usepackage[pdfpagelabels,unicode,plainpages=false]{hyperref}
 
 \hypersetup{pdftitle=Ересь о Киеве. Петр Семилетов.}
 
-%\hypersetup{  
-%  pdfinfo={  
-%    Title={Ересь о Киеве},  
-%    Subject={Киев},  
-%  }  
-%} 
-
-
-%\usepackage{cmap}
-%\usepackage{float}
 \usepackage{bookmark} 
 \usepackage{relsize}
 
 \usepackage{tocloft,calc}
 \usepackage[nottoc,numbib]{tocbibind}
 
-%\usepackage{multicol}
-
-
-%\usepackage[nottoc,notlot,notlof]{tocbibind}
-
-%\usepackage{etoolbox}
-%\apptocmd{\thebibliography}{\csname phantomsection\endcsname\addcontentsline{toc}{chapter}{\bibname}}{}{}
 
 \renewcommand{\cftchappresnum}{Глава }
 \AtBeginDocument{\addtolength\cftchapnumwidth{\widthof{\bfseries Глава XX}}}
 
-%\renewcommand{\cftpartpresnum}{Часть }
-%\AtBeginDocument{\addtolength
-%\cftpartnumwidth{\widthof{\bfseries Часть }}}
-
-
-%\newcommand{ - }{ – } 
-
-%\renewcommand{\cftchappresnum}{Глава }
 
 \frenchspacing
 \righthyphenmin=2
 
-%\sloppy
-
-%\hyphenation{ва-ря-ги}
-
-%\tolerance 1414
-%\hbadness 1414
-%\emergencystretch 1.5em
-%\hfuzz 0.3pt
-%\widowpenalty=10000
-%\vfuzz \hfuzz
-%\raggedbottom
-
-%\sloppy
-%\usepackage{appendix}
-%\usepackage{csquotes} 
-%\pretolerance=1150
-%\tolerance=1753
-%\hbadness=1752
-
-%\renewcommand{\rmdefault}{ptm}
-
-
-%\luaexec{
-%    semiletov_gv_imgprefix = "s-"
-%}
-
-%\newcommand\myimgprefix{%
-%\directlua{
-%     tex.sprint(semiletov_gv_imgprefix);
-% }}
-
-%\makeindex
 
 \makeatletter
 \@addtoreset{chapter}{part}
@@ -193,7 +101,6 @@ ItalicFont={DejaVuSansMono-Oblique.ttf},
 
 \newcommand\myimgprefix{s-}
 
-%\titlepic{\includegraphics[width=0.50\textwidth]{cover/04.jpg}}
 
 \title{Ересь о Киеве \\ \textsmaller[2]{редакция 11.3}}
 \author{Петр Семилетов}
